@@ -1,0 +1,2 @@
+# leetcode
+💎 Python and C
