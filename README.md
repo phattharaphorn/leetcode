@@ -1,2 +1,2 @@
-# leetcode
-💎 Python and C
+# Leet Code
+
